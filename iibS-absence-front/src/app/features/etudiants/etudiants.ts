@@ -11,7 +11,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatTabsModule } from '@angular/material/tabs';
-
+// Models & Facades
 import { EtudiantsFacade } from '../../application/facades/etudiants.facade';
 import { ClassesFacade } from '../../application/facades/classes.facade';
 import { Classe } from '../../core/models/classe.model';
