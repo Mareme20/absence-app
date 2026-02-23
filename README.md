@@ -1,5 +1,7 @@
 # IIBS Absence App
 
+Documentation de présentation (version pro) : `docs/DOCUMENTATION_PROJET.md`
+
 Application de gestion des absences de l'IIBS, composée de:
 - un backend API Node.js/Express/TypeORM (`iibS-absence-back`)
 - un frontend Angular (`iibS-absence-front`)
